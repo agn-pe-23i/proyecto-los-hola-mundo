@@ -8,7 +8,7 @@ Un servicio de streaming requiere actualizar su sistema de renta y venta de pel�
 El script deberá ser intuitivo para el usuario por lo que se debe llevar un orden, por lo que se deberá hacer de primera mano el diagrama de estructura, para después emplearlo en el script, el diagrama facilitará la elaboración de esta práctica
 
 
-*Diagrama de Estructra:*
+# Diagrama de Estructra:
 ![diagrama_estructura](https://github.com/agn-pe-23i/proyecto-los-hola-mundo/assets/125332082/b61649d4-114d-4251-91a3-6af0d1b06146)
 (fig1 Diagrama de estructura)
 
