@@ -37,7 +37,7 @@ Objetivo: Este menú considera las siguientes opciones.
    
    4-Mostrar el catálogo
    
-   5-Cargar catálogo
+   5- Cargar catálogo
    
    6-Guardar catálogo
    
