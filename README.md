@@ -15,14 +15,15 @@ El script deberá ser intuitivo para el usuario por lo que se debe llevar un ord
 (fig1 Diagrama de estructura)
 
 
-El diagrama de estructura vista en la figura anterior, (fig1) fue la base de cómo se haría el "script" de este proyecto. Se puede apreciar que el menú principal siempre recibirá la información de los modulos: Agregar producto, Bucasr producto, Eliminar producto, Mostrar catálogo, Cargar catálogo, Guardar catálogo y salir. Estos modulos estaran numerados del 1 al 7. La información que proporciona el usuario es un valor numérico (int) entre 1 al 6 que son las opciones del menú y al interactuar con el programa este de una salida de tipo (str), en el caso de que de la opcion (7)salir simplenete es como salirte de la aplicación o en este caso acabar con la ejecución del programa.
+El diagrama de estructura vista en la figura anterior, (fig1) fue la base de cómo se haría el "script" de este proyecto. Se puede apreciar que el menú principal siempre recibirá la información de los modulos: Agregar producto, Bucasr producto, Eliminar producto, Mostrar catálogo, Cargar catálogo, Guardar catálogo y salir. Estas funciones estaran numerados del 1 al 7. La información que proporciona el usuario es un valor numérico (int) entre 1 al 6 que son las opciones del menú y al interactuar con el programa este de una salida de tipo (str), en el caso de que de la opcion (7)salir simplenete es como salirte de la aplicación o en este caso acabar con la ejecución del programa.
 
 
 # Correspondencia entre el diseño y la implementación 
 
 
-Una vez que ya mencionamos como está diseñado el diagrama de estructura lo vamos a emplear para crear los scripts, el script principal será “Menú principal” el cual recibirá información de tipo numérico (int) numeros del 1 al 7, donde este último es la opción de salir que básicamente termina la ejecución del programa. 
-En cuanto a los otros seis, son scripts de forma independiente pero que dan una salida de tipo (str), estos empezaran a funcionar cuando el usuario lo requiera, también llamados módulos.
+El diagrama de estructura vista en la figura anterior fue la base de cómo se haría el script. Se puede apreciar que el menú principal siempre recibirá la información de 1 de los 7 funciones dependiendo de la elección del usuario. La información que proporciona el usuario es un valor numérico (int) entre 1 al 7 que son las opciones del menú y al interactuar con el módulo da una salida en forma de (str).
+En el caso de “Mostrar catálogo” se despliega otro menú donde puedes seleccionar la categoría que se desea ver, este menú tendrá 5 opciones numeradas del 1 al 5. Por otro lado para la opción “Guardar catálogo” ve depender de si hay un “Catálogo cargado” en dado caso de no ser así, te mandara a la función de  “Cargar catálogo”.
+
 
 
 # Comentarios del diseño de implementación 
