@@ -14,3 +14,13 @@ El script deberá ser intuitivo para el usuario por lo que se debe llevar un ord
 
 El diagrama de estructura vista en la figura anterior, (fig1) fue la base de cómo se haría el script. Se puede apreciar que el menú principal siempre recibirá la información de 1 de los 7 módulos dependiendo de la elección del usuario. La información que proporciona el usuario es un valor numérico (int) entre 1 al 7 que son las opciones del menú y al interactuar con el módulo da una salida en forma de (str).
 
+Menú principal:
+Objetivo: Este menú considera las siguientes opciones.
+  Menú principal
+   1 Agregar un producto
+   2 Buscar producto
+   3 Eliminar un producto
+   4 Mostrar el catálogo
+   5 Cargar catálogo
+   6 Guardar catálogo
+   7 Salir
