@@ -126,3 +126,4 @@ En el caso de que el nombre del archivo que ingresó no existe, vendrá un mensa
 
 Objetivo: El sistema solicitará el nombre del archivo en donde se guardará el catálogo. Si el archivo se puede abrir para escritura, se guardarán los datos de los productos.
 
+En este último apartado crearemos una función para que guarde el catálogo en un archivo de texto (.txt), para eso crearemos un archivo de texto nuevo, en el cual habilitaremos el modo escritura (nombre_archivo, "w"), posteriormente agregaremos el catálogo en el archivo de texto creado.
