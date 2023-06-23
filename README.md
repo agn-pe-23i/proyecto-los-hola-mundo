@@ -31,6 +31,10 @@ De igual manera en el siguiente apartdo se habla con más detalle de la implemen
 
 # Comentarios del diseño de implementación y Documentación
 
+*catálogo* 
+para crear el catálogo creamos un diccionario, La secuencia completa de entradas está encerrada entre llaves ({ }). Dentro de esas llaves pondremos nuestro catálogo, este va incluir las películas, series, documentales y eventos deportivos, estos cinco ejemplos serán nuestras claves y dentro de estas claves  crearemos otro diccionario donde vendrán, en el caso de películas: nombre de película, actor principal, año de la película, costo de venta, costo de renta. y cada uno de esos elementos igual serán claves y solo agregamos (:) entre la clave y el valor.
+
+
 *Menú principal:*
 
 Objetivo: Este menú considera las siguientes opciones.
@@ -85,7 +89,7 @@ Con el archivo de texto que creamos para películas, series, eventos deportivos 
 Objetivo: Para eliminar un producto, es necesario que el usuario introduzca la información necesaria para identificar de forma única el producto que desea eliminar
 Para eliminar un producto debemos buscar el elemento en los archivos.
 
- Para eliminar un producto debemos buscar el elemento en el archivo de texto. En nuestro caso, para ser específicos, debemos seleccionar la categoría en donde se encuentra el producto e introducir el mismo con todos sus datos, es decir, su nombre, autor, año. Según sea el caso. Una vez hecho esto, se mandará un mensaje de que el producto ha sido eliminado, o en su defecto, mostrará que no se encontró dicho producto. 
+ Para eliminar un producto debemos buscar el elemento en el archivo de texto (txt). En nuestro caso, para ser específicos, debemos seleccionar la categoría en donde se encuentra el producto e introducir el mismo con todos sus datos, es decir, su nombre, autor, año. Según sea el caso. Una vez hecho esto, se mandará un mensaje de que el producto ha sido eliminado, o en su defecto, mostrará que no se encontró dicho producto. 
 
 
 *Mostrar catálogo:*
