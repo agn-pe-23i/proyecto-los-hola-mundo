@@ -84,6 +84,7 @@ Para eliminar un producto debemos buscar el elemento en los archivos.
 Objetivo: Esta opción desplegará el siguiente menú secundario y mostrará, de forma ordenada, la información de los productos de acuerdo con la elección del usuario.
 
 Menú mostrar catálogo
+
   1-Películas
   
   2-Series
