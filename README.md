@@ -77,4 +77,5 @@ Con los archivos de texto que creamos para los diferentes catálogos, películas
 Objetivo: Para eliminar un producto, es necesario que el usuario introduzca la información necesaria para identificar de forma única el producto que desea eliminar
 Para eliminar un producto debemos buscar el elemento en los archivos.
 
+ En nuestro caso, para ser específicos, debemos seleccionar la categoría en donde se encuentra el producto e introducir el mismo con todos sus datos, es decir, su nombre, autor, año. Según sea el caso. Una vez hecho esto, se mandará un mensaje de que el producto ha sido eliminado, o en su defecto, mostrará que no se encontró dicho producto. 
 
