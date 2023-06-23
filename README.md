@@ -119,7 +119,7 @@ Si en el menú principal se da la opción de “Mostrar catálogo” este a su v
 Objetivo: El sistema solicitará el nombre del archivo en donde está almacenado el catálogo. Si el archivo existe y se puede leer, se cargará el contenido del mismo.
 
 
-
+Para cargar el catálogo lo que haremos es tener una función donde se pida al usuario el nombre del archivo que desea cargar, en dado caso de que si exista el archivo iniciará el modo lectura (nombre_archivo, "r") y posterior a eso si tiene elementos guardados o no se mostrará un mensaje (print) donde se menciona que se ha cargado el catálogo 
 
 *Guardar catálogo:*
 
