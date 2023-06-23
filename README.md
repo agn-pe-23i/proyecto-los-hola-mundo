@@ -22,6 +22,7 @@ Una vez que ya mencionamos como está diseñado el diagrama de estructura lo vam
 En cuanto a los otros seis, son scripts de forma independiente pero que dan una salida de tipo (str), estos empezaran a funcionar cuando el usuario lo requiera, también llamados módulos.
 
 
+# Comentarios del diseño de implementación 
 
 *Menú principal:*
 
