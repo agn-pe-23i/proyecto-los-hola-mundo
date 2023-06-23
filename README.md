@@ -17,10 +17,18 @@ El diagrama de estructura vista en la figura anterior, (fig1) fue la base de có
 Menú principal:
 Objetivo: Este menú considera las siguientes opciones.
   Menú principal
+
+  
    1 Agregar un producto
+   
    2 Buscar producto
+   
    3 Eliminar un producto
+   
    4 Mostrar el catálogo
+   
    5 Cargar catálogo
+   
    6 Guardar catálogo
+   
    7 Salir
