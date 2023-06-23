@@ -29,7 +29,7 @@ De igual manera en el siguiente apartdo se habla con más detalle de la implemen
 
 
 
-# Comentarios del diseño de implementación 
+# Comentarios del diseño de implementación y Documentación
 
 *Menú principal:*
 
