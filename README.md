@@ -87,7 +87,7 @@ Menú mostrar catálogo
 
   1-Películas
   
-  2-Series
+  2- series
   
   3-Documentales
   
