@@ -55,7 +55,7 @@ Menú agregar producto
 
   1-Película
   
-  2- Serie
+  2- Series
   
   3-Documental
   
