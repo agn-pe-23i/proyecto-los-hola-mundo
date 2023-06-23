@@ -63,5 +63,5 @@ Menú agregar producto
   
   5-Regresar
 
-
+En el menú principal, cuando se dé la opción de “agregar producto” el programa mostrará las diferentes categorías existentes donde se desee agregar el producto.
 
