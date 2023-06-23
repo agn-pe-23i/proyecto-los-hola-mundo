@@ -70,3 +70,10 @@ En el menú principal, cuando se dé la opción de “agregar producto” el pro
 
 Objetivo: El sistema debe solicitar palabras clave del título del producto a buscar y desplegar todos los productos que coincidan con el criterio de búsqueda, mostrando también el tipo de producto que son.
 
+Con los archivos de texto que creamos para los diferentes catálogos, películas, series, eventos deportivos y documentales lo que debemos hacer es que el programa solicite al usuario escribir cualquier número y/o letra y nuestro programa deberá buscar en los archivos de texto (.txt) algún elemento relacionado.
+
+*Eliminar producto:*
+Objetivo: Para eliminar un producto, es necesario que el usuario introduzca la información necesaria para identificar de forma única el producto que desea eliminar
+Para eliminar un producto debemos buscar el elemento en los archivos.
+
+
