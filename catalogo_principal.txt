@@ -1,0 +1,1 @@
+[{'Tipo': 'Pel cula', 'T tulo': 'the batman', 'robert pattinson, matt reeves, 2022', }, {'Tipo': 'Serie', 'T tulo': 'the last of us, pedro pascal, neil druckmann, temporadas 1', }, {'Tipo': 'Documental', 'T tulo': 'cu l es mi nombre: muhammad ali, antoine fuqua, boxeo, 2019', }, {'Tipo': 'Evento deportivo en vivo', 'T tulo': 'gp m naco, f rmula 1, 28-05-2023, 07:00, m naco', }]
