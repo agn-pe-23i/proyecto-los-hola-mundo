@@ -11,7 +11,7 @@ El script deberá ser intuitivo para el usuario por lo que se debe llevar un ord
 
 # Diagrama de Estructra:
 
-![fig1](https://github.com/agn-pe-23i/proyecto-los-hola-mundo/assets/125332082/53792a17-ec4d-4574-85bd-f7a7ee236fb5)
+![fig1](https://github.com/agn-pe-23i/proyecto-los-hola-mundo/assets/125332082/626d9bac-a8ec-4186-b558-c130e904eea0)
 
 (fig1 Diagrama de estructura)
 
