@@ -13,7 +13,7 @@ El script deberá ser intuitivo para el usuario por lo que se debe llevar un ord
 
 (fig1 Diagrama de estructura)
 
-El diagrama de estructura vista en la figura anterior, (fig1) fue la base de cómo se haría el script de este proyecto. Se puede apreciar que el menú principal siempre recibirá la información de los modulos: Agregar producto, Bucasr producto, Eliminar producto, Mostrar catálogo, Cargar catálogo, Guardar catálogo y salir. Estos modulos estaran numerados del 1 al 7. La información que proporciona el usuario es un valor numérico (int) entre 1 al 7 que son las opciones del menú y al interactuar con el programa este de una salida de tipo (str).
+El diagrama de estructura vista en la figura anterior, (fig1) fue la base de cómo se haría el "script" de este proyecto. Se puede apreciar que el menú principal siempre recibirá la información de los modulos: Agregar producto, Bucasr producto, Eliminar producto, Mostrar catálogo, Cargar catálogo, Guardar catálogo y salir. Estos modulos estaran numerados del 1 al 7. La información que proporciona el usuario es un valor numérico (int) entre 1 al 7 que son las opciones del menú y al interactuar con el programa este de una salida de tipo (str).
 
 
 # Correspondencia entre el diseño y la implementación 
