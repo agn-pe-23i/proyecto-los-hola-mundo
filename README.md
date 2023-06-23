@@ -9,10 +9,14 @@ El script deberá ser intuitivo para el usuario por lo que se debe llevar un ord
 
 
 # Diagrama de Estructra:
-![diagrama_estructura](https://github.com/agn-pe-23i/proyecto-los-hola-mundo/assets/125332082/b61649d4-114d-4251-91a3-6af0d1b06146)
+![diagrama_estructura](https://github.com/agn-pe-23i/proyecto-los-hola-mundo/assets/125332082/245dfe80-3bb4-40b0-8b67-d6272105972f)
+
 (fig1 Diagrama de estructura)
 
 El diagrama de estructura vista en la figura anterior, (fig1) fue la base de cómo se haría el script. Se puede apreciar que el menú principal siempre recibirá la información de 1 de los 7 módulos dependiendo de la elección del usuario. La información que proporciona el usuario es un valor numérico (int) entre 1 al 7 que son las opciones del menú y al interactuar con el módulo da una salida en forma de (str).
+
+
+# Correspondencia entre el diseño y la implementación 
 
 *Menú principal:*
 
