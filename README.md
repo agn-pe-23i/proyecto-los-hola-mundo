@@ -10,13 +10,14 @@ El script deberá ser intuitivo para el usuario por lo que se debe llevar un ord
 
 
 # Diagrama de Estructra:
-![fig1](https://github.com/agn-pe-23i/proyecto-los-hola-mundo/assets/125332082/b07c9c26-c2f3-408b-bd6d-e789c7d76eb2)
+
+![fig1](https://github.com/agn-pe-23i/proyecto-los-hola-mundo/assets/125332082/53792a17-ec4d-4574-85bd-f7a7ee236fb5)
 
 (fig1 Diagrama de estructura)
 
 
 El diagrama de estructura vista en la figura anterior fue la base de cómo se haría el script. Se puede apreciar que el menú principal siempre recibirá la información de 1 de los 7 funciones dependiendo de la elección del usuario. La información que proporciona el usuario es un valor numérico (int) entre 1 al 7 que son las opciones del menú y al interactuar con el módulo da una salida en forma de (str).
-En el caso de “Mostrar catálogo” se despliega otro menú donde puedes seleccionar la categoría que se desea ver, este menú tendrá 5 opciones numeradas del 1 al 5. Por otro lado para la opción “Guardar catálogo” ve depender de si hay un “Catálogo cargado” en dado caso de no ser así, te mandara a la función de  “Cargar catálogo”.
+
 
 # Correspondencia entre el diseño y la implementación 
 
