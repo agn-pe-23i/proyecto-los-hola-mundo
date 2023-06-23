@@ -79,3 +79,21 @@ Para eliminar un producto debemos buscar el elemento en los archivos.
 
  En nuestro caso, para ser específicos, debemos seleccionar la categoría en donde se encuentra el producto e introducir el mismo con todos sus datos, es decir, su nombre, autor, año. Según sea el caso. Una vez hecho esto, se mandará un mensaje de que el producto ha sido eliminado, o en su defecto, mostrará que no se encontró dicho producto. 
 
+*Mostrar catálogo:*
+
+Objetivo: Esta opción desplegará el siguiente menú secundario y mostrará, de forma ordenada, la información de los productos de acuerdo con la elección del usuario.
+
+Menú mostrar catálogo
+  1-Películas
+  
+  2-Series
+  
+  3-Documentales
+  
+  4-Eventos deportivos
+  
+  5-Todo
+  
+  6-Regresar
+
+
