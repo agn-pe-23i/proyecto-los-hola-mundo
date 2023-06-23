@@ -31,7 +31,8 @@ De igual manera en el siguiente apartdo se habla con más detalle de la implemen
 
 # Comentarios del diseño de implementación y Documentación
 
-*catálogo* 
+* Creación del catálogo* 
+
 para crear el catálogo creamos un diccionario, La secuencia completa de entradas está encerrada entre llaves ({ }). Dentro de esas llaves pondremos nuestro catálogo, este va incluir las películas, series, documentales y eventos deportivos, estos cinco ejemplos serán nuestras claves y dentro de estas claves  crearemos otro diccionario donde vendrán, en el caso de películas: nombre de película, actor principal, año de la película, costo de venta, costo de renta. y cada uno de esos elementos igual serán claves y solo agregamos (:) entre la clave y el valor.
 
 
