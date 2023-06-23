@@ -29,19 +29,19 @@ Objetivo: Este menú considera las siguientes opciones.
   Menú principal
 
   
-   1 Agregar un producto
+   1-Agregar un producto
    
-   2 Buscar producto
+   2-Buscar producto
    
-   3 Eliminar un producto
+   3-Eliminar un producto
    
-   4 Mostrar el catálogo
+   4-Mostrar el catálogo
    
-   5 Cargar catálogo
+   5-Cargar catálogo
    
-   6 Guardar catálogo
+   6-Guardar catálogo
    
-   7 Salir
+   7-Salir
 
 
 Para poder implementar esta solución en Python comenzamos con la estructura del diagrama y el menú es quien desplegará la elección solicitada. Al ser el menú principal es quien va a tener todos los módulos (mostradas en el diagrama de estructura).
@@ -50,5 +50,18 @@ Para poder implementar esta solución en Python comenzamos con la estructura del
 *Agregar producto:*
 
 Objetivo:Para cada opción, el sistema debe solicitar y recibir correctamente la información correspondiente, validando los valores ingresados y resolviendo los posibles errores que existan durante la ejecución del sistema.
+
+Menú agregar producto
+
+  1-Película
+  
+  2-Serie
+  
+  3-Documental
+  
+  4-Evento deportivo en vivo
+  
+  5-Regresar
+
 
 
