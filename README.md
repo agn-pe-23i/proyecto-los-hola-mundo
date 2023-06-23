@@ -9,8 +9,9 @@ El script deberá ser intuitivo para el usuario por lo que se debe llevar un ord
 
 
 # Diagrama de Estructra:
-![Diagrama_de_estructura](https://github.com/agn-pe-23i/proyecto-los-hola-mundo/assets/125332082/cbf2d6db-7297-42ae-ae7b-9d564990cf45)
+![Diagrama_de_estructura](https://github.com/agn-pe-23i/proyecto-los-hola-mundo/assets/125332082/d1cd0d4c-7ff9-4985-ba80-acd727658153)
 (fig1 Diagrama de estructura)
+
 
 El diagrama de estructura vista en la figura anterior, (fig1) fue la base de cómo se haría el "script" de este proyecto. Se puede apreciar que el menú principal siempre recibirá la información de los modulos: Agregar producto, Bucasr producto, Eliminar producto, Mostrar catálogo, Cargar catálogo, Guardar catálogo y salir. Estos modulos estaran numerados del 1 al 7. La información que proporciona el usuario es un valor numérico (int) entre 1 al 6 que son las opciones del menú y al interactuar con el programa este de una salida de tipo (str), en el caso de que de la opcion (7)salir simplenete es como salirte de la aplicación o en este caso acabar con la ejecución del programa.
 
