@@ -98,3 +98,17 @@ Menú mostrar catálogo
   6-Regresar
 
 Si en el menú principal se da la opción de “Mostrar catálogo” este a su vez mostrará un menú secundario (como se puede apreciar en el ejemplo) y una vez que se elija una de las seis opciones. Dependiendo de que se haya seleccionado, desplegará lo que haya en archivo de texto, y en caso de que se seleccione la opción “Todo” mostrará todos los elementos de los archivos de texto.
+
+
+*Cargar catálogo:*
+
+Objetivo: El sistema solicitará el nombre del archivo en donde está almacenado el catálogo. Si el archivo existe y se puede leer, se cargará el contenido del mismo.
+
+Cuando el usuario elija la opción de cargar catálogo, el usuario deberá escribir el nombre de un archivo de texto ya existente. Posteriormente, cargará los productos del catálogo seleccionado.
+
+
+*Guardar catálogo:*
+
+Objetivo: El sistema solicitará el nombre del archivo en donde se guardará el catálogo. Si el archivo se puede abrir para escritura, se guardarán los datos de los productos.
+
+Esta última opción le pedirá al usuario que escriba el nombre de un archivo de texto existente, en el cual guardará el producto deseado. 
