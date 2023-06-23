@@ -65,3 +65,8 @@ Menú agregar producto
 
 En el menú principal, cuando se dé la opción de “agregar producto” el programa mostrará las diferentes categorías existentes donde se desee agregar el producto.
 
+
+*Buscar producto:*
+
+Objetivo: El sistema debe solicitar palabras clave del título del producto a buscar y desplegar todos los productos que coincidan con el criterio de búsqueda, mostrando también el tipo de producto que son.
+
