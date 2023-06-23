@@ -17,6 +17,12 @@ El diagrama de estructura vista en la figura anterior, (fig1) fue la base de có
 
 # Correspondencia entre el diseño y la implementación 
 
+
+Una vez que ya mencionamos como está diseñado el diagrama de estructura lo vamos a emplear para crear los scripts, el script principal será “Menú principal” el cual recibirá información de tipo numérico (int) entre el 1 al 7, donde este último es la opción de salir que básicamente termina el programa. 
+En cuanto a los otros seis, son scripts de forma independiente pero que dan una salida de tipo (str), estos empezaran a funcionar cuando el usuario lo requiera, también llamados módulos mencionare el uso del 1 al 6.
+
+
+
 *Menú principal:*
 
 Objetivo: Este menú considera las siguientes opciones.
