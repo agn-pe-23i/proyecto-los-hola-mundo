@@ -45,3 +45,10 @@ Objetivo: Este menú considera las siguientes opciones.
 
 
 Para poder implementar esta solución en Python comenzamos con la estructura del diagrama y el menú es quien desplegará la elección solicitada. Al ser el menú principal es quien va a tener todos los módulos (mostradas en el diagrama de estructura).
+
+
+*Agregar producto:*
+
+Objetivo:Para cada opción, el sistema debe solicitar y recibir correctamente la información correspondiente, validando los valores ingresados y resolviendo los posibles errores que existan durante la ejecución del sistema.
+
+
