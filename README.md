@@ -33,3 +33,6 @@ Objetivo: Este menú considera las siguientes opciones.
    6 Guardar catálogo
    
    7 Salir
+
+
+Para poder implementar esta solución en Python comenzamos con la estructura del diagrama y el menú es quien desplegará la elección solicitada. Al ser el menú principal es quien va a tener todos los módulos (mostradas en el diagrama de estructura).
