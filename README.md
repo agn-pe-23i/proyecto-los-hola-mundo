@@ -78,14 +78,15 @@ En el menú principal, cuando se dé la opción de “agregar producto” el pro
 
 Objetivo: El sistema debe solicitar palabras clave del título del producto a buscar y desplegar todos los productos que coincidan con el criterio de búsqueda, mostrando también el tipo de producto que son.
 
-Con el archivo de texto que creamos con los diferentes catálogos: películas, series, eventos deportivos y documentales lo que debemos hacer es que el programa solicite al usuario escribir cualquier número y/o letra y nuestro programa deberá buscar en el archivo de texto (.txt) algún elemento relacionado con la busqueda.
+Con el archivo de texto que creamos para películas, series, eventos deportivos y documentales. Lo que debemos hacer es que el programa solicite al usuario escribir cualquier número y/o letra y nuestro programa deberá buscar en el archivo de texto (.txt) algún elemento relacionado.
 
 *Eliminar producto:*
 
 Objetivo: Para eliminar un producto, es necesario que el usuario introduzca la información necesaria para identificar de forma única el producto que desea eliminar
 Para eliminar un producto debemos buscar el elemento en los archivos.
 
- En nuestro caso, para ser específicos, debemos seleccionar la categoría en donde se encuentra el producto e introducir el mismo con todos sus datos, es decir, su nombre, autor, año. Según sea el caso. Una vez hecho esto, se mandará un mensaje de que el producto ha sido eliminado, o en su defecto, mostrará que no se encontró dicho producto. 
+ Para eliminar un producto debemos buscar el elemento en el archivo de texto. En nuestro caso, para ser específicos, debemos seleccionar la categoría en donde se encuentra el producto e introducir el mismo con todos sus datos, es decir, su nombre, autor, año. Según sea el caso. Una vez hecho esto, se mandará un mensaje de que el producto ha sido eliminado, o en su defecto, mostrará que no se encontró dicho producto. 
+
 
 *Mostrar catálogo:*
 
@@ -105,18 +106,17 @@ Menú mostrar catálogo
   
   6-Regresar
 
-Si en el menú principal se da la opción de “Mostrar catálogo” este a su vez mostrará un menú secundario (como se puede apreciar en el ejemplo) y una vez que se elija una de las seis opciones. Dependiendo de que se haya seleccionado, desplegará lo que haya en archivo de texto, y en caso de que se seleccione la opción “Todo” mostrará todos los elementos de los archivos de texto.
+Si en el menú principal se da la opción de “Mostrar catálogo” este a su vez mostrará un menú secundario (como se puede apreciar en el ejemplo) y una vez que se elija una de las seis opciones. Dependiendo de que se haya seleccionado, desplegará lo que haya en archivo de texto, y en caso de que se seleccione la opción “Todo” mostrará todas las categorías del catálogo.
 
 
 *Cargar catálogo:*
 
 Objetivo: El sistema solicitará el nombre del archivo en donde está almacenado el catálogo. Si el archivo existe y se puede leer, se cargará el contenido del mismo.
 
-Cuando el usuario elija la opción de cargar catálogo, el usuario deberá escribir el nombre de un archivo de texto ya existente. Posteriormente, cargará los productos del catálogo seleccionado.
+
 
 
 *Guardar catálogo:*
 
 Objetivo: El sistema solicitará el nombre del archivo en donde se guardará el catálogo. Si el archivo se puede abrir para escritura, se guardarán los datos de los productos.
 
-Esta última opción le pedirá al usuario que escriba el nombre de un archivo de texto existente, en el cual guardará el producto deseado. 
